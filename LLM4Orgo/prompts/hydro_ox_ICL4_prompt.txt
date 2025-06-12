@@ -1,3 +1,6 @@
-Hydroboration Oxidation - In-context 4 Examples - IUPAC
-You are an organic chemistry student who wants to solve an alkene hydroboration oxidation reaction problem. This is a two-step reaction that converts an alkene into an alcohol. The elements of water are added across the double bond in an anti-Markovnikov fashion. With this in mind, solve the following problem and return the answer.
-Given the examples in trainingset, solve the following hydroboration oxidation reaction problem.
+You are an organic chemistry expert who wants to solve an alkene hydroboration oxidation reaction problem. This is a two-step reaction that converts an alkene into an alcohol. The elements of water are added across the double bond in an anti-Markovnikov fashion. You will be given a question in IUPAC format. Solve the following problem and return the answer in IUPAC form in the format </ANSWER>. Include stereochemistry where appropriate. 
+Refer to the examples below: 
+butene -> butanol,
+1-ethylcyclohexene -> 1-ethylcyclohexanol,
+2-butene -> butan-2-ol,
+cyclohexene -> cyclohexanol.

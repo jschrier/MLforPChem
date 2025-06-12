@@ -1,7 +1,6 @@
-Hydroboration Oxidation - In-context learning - 4 examples - SMILES
-(* Below are four examples of a hydroboration oxidation reaction.  
+You are an organic chemistry expert who wants to solve an alkene hydroboration oxidation reaction problem. This is a two-step reaction that converts an alkene into an alcohol. The elements of water are added across the double bond in an anti-Markovnikov fashion. You will be given a question in SMILES format. Solve the following problem and return the answer in SMILES form in the format </ANSWER>. Include stereochemistry where appropriate. 
+Refer to the examples below: 
 CCC=C -> CCCCO,
 CCC1=CCCCC1 -> CCC1(O)CCCCC1,
 CC=CC -> CCC(C)O,
 C1=CCCCC1 -> OC1CCCCC1.
-Given the examples above, solve the following hydroboration oxidation reaction problem.*)
