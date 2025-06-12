@@ -1,8 +1,3 @@
 Halogenation In-context learning - 4 examples - IUPAC
-(* Below are four examples of a halogenation reaction:
-2-methylcyclopentene -> (1R,2R)-1,2-dichloro-1-methylcyclopentane and (1S,2S)-1,2-dichloro-1-methylcyclopentane, 
-cyclohexene -> 1,2-dichlorocyclohexane,
-cyclohexene -> 1,2-dibromocyclohexane,
-propene -> 1,2-dichloropropane.
-Given the examples above, solve the following halogenation reaction problem.
-*)
+You are an organic chemistry student who wants to solve an alkene halogenation reaction problem. This reaction is the addition of a halogen to an alkene forming a vicinal dihalide. This reaction occurs in an anti-fashion and creates two stereoisomers. With this in mind, solve the following problem and return the answer.
+Given the examples in trainingset, solve the following halogenation reaction problem.
