@@ -1,0 +1,6 @@
+Halogenation - In-context learning - 4 examples - SMILES
+CC1=CCCC1 -> CC1(Cl)CCCC1Cl, 
+C1=CCCCC1 -> ClC1CCCCC1Cl,
+C1=CCCCC1 -> BrC1CCCCC1Br,
+C=CC -> CC(Cl)CCl,
+Given the examples above, solve the following halogenation reaction problem.
